@@ -19,6 +19,9 @@
 
 1. Kconfig语言编写，请自行上网搜索
 2. configs目录用于存放不同的配置
+3. `make test_defconfig`初始化配置
+4. `make menuconfig` 配置项目
+5. `make saveconfig` 保存默认配置
 
 #### 参与贡献
 
