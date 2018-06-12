@@ -12,7 +12,8 @@
 ```shell
 1. git clone https://gitee.com/wefeng/myconfig
 2. make test_defconfig
-3. ./install.sh <project dir>
+3. 准备好项目工程
+4. ./install.sh <project dir>
 ```
 
 #### 使用说明
