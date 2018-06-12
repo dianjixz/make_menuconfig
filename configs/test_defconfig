@@ -1,0 +1,30 @@
+#
+# Automatically generated file; DO NOT EDIT.
+# Main Menu
+#
+
+#
+# This is a comment to help to structure test1  menu
+#
+CONFIG_CONF_PATH="configs/test_defconfig"
+CONFIG_TEST1=y
+CONFIG_LED_ON=y
+# CONFIG_LED_OFF is not set
+
+#
+# This item is visible only if the third option is selected
+#
+# CONFIG_TEST2 is not set
+
+#
+# This file can contain arbitrary nesting and dependencies and is always included
+#
+CONFIG_OPTIONAL_PARAM="this shown if TEST1 is set"
+
+#
+# Nested 1
+#
+
+#
+# we can nest as deep as we want
+#
