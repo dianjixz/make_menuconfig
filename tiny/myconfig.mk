@@ -14,7 +14,7 @@ endif
 
 %:: FORCE
 
-ALL:
+all:
 
 menuconfig : mconf conf
 	$(Q)./$< $(Kconfig)
