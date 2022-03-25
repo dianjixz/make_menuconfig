@@ -1,4 +1,4 @@
-# myconfig
+# make_menuconfig
 
 #### 项目介绍
 项目配置工具 menuconfig 添加config管理
